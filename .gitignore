@@ -1,0 +1,7 @@
+# Virtual environment directories
+venv/
+.env/
+.venv/
+
+# macOS system files
+.DS_Store

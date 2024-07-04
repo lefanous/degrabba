@@ -1,0 +1,33 @@
+{
+    "https://amgros.dk": [
+        "https://cdn.polyfill.io/v2/polyfill.min.js"
+    ],
+    "https://sorthvid.dk": [
+        "//cdn.polyfill.io/v2/polyfill.js?features=fetch,Promise,Array.prototype.find,Element.prototype.remove"
+    ],
+    "https://boliggaarden.dk": [
+        "//cdn.polyfill.io/v2/polyfill.min.js?features=es6"
+    ],
+    "https://combine.dk": [
+        "https://cdn.polyfill.io/v2/polyfill.min.js"
+    ],
+    "https://avv.dk": [
+        "https://cdn.polyfill.io/v2/polyfill.min.js"
+    ],
+    "https://edbforeningen.dk": [
+        "//cdn.polyfill.io/v2/polyfill.min.js?features=es6"
+    ],
+    "https://socialrespons.dk": [
+        "https://cdn.polyfill.io/v2/polyfill.min.js?features=Array.from,Array.prototype.includes,Object.values,es5,es6,fetch,matchMedia,viewport,CustomEvent",
+        "https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.find,Promise,Object.assign"
+    ],
+    "https://ribehoej.dk": [
+        "https://cdn.polyfill.io/v3/polyfill.min.js?callback=polyfillsAreLoaded&flags=gated"
+    ],
+    "https://forlands.dk": [
+        "https://cdn.polyfill.io/v2/polyfill.min.js"
+    ],
+    "https://husetsforsikring.dk": [
+        "https://cdn.polyfill.io/v3/polyfill.min.js"
+    ]
+}
